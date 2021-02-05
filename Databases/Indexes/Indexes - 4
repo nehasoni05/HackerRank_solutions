@@ -1,0 +1,16 @@
+MCQ-
+
+The correct syntax for creating composite indexes in MS SQL Sever is:
+
+1) CREATE INDEX index_name ON table_name(column1), table_name(column2);
+2) CREATE INDEX index_name ON table_name(column1) and table_name(column2);
+3) CREATE INDEX index_name ON table_name(column1, column2);
+4) All the above-mentioned syntax are correct.
+
+Correct Ans- CREATE INDEX index_name ON table_name(column1, column2);
+
+Explanation-
+A composite index is an index on two or more columns of a table. 
+Syntax
+CREATE INDEX index_name
+on table_name (column1, column2);
