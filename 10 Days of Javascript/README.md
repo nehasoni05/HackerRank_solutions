@@ -54,7 +54,7 @@ Solutions to HackerRank's <a href="https://www.hackerrank.com/domains/tutorials/
   <li>Day 6
   <ul>
     <li>Bitwise Operators</li>
-    <li>JavaScript Dates/li>
+    <li>JavaScript Dates</li>
   </ul>
   </li>
   
